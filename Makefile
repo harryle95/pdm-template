@@ -83,5 +83,3 @@ test:  												## Run the tests
 
 .PHONY: check-all
 check-all: lint test coverage                   ## Run all linting, tests, and coverage checks
-
-
